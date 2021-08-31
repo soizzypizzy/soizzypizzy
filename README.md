@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>☕ I used to be a <img src="https://img.shields.io/badge/Starbucks-006241?style=flat&logo=Starbucks&logoColor=white"/> Barista in 🇬🇧</b></br>
-<b>💻 Now, I am currently working on Web Programming in 🇰🇷</b>
+<b>☕ I used to be a <img src="https://img.shields.io/badge/Starbucks-006241?style=flat&logo=Starbucks&logoColor=white"/> Barista in London 🇬🇧</b></br>
+<b>💻 Now, I am currently working on Web Programming 👩‍💻 🇰🇷</b>
 
 <br>
 <h3><b>Tech Stack</b></h3>
